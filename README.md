@@ -1,37 +1,64 @@
-## Welcome to GitHub Pages
+# Giada Franz
 
-You can use the [editor on GitHub](https://github.com/giadafranz/giadafranz.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## About me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a PhD student at ETH Zürich under the supervision of [Prof. Alessandro Carlotto](https://people.math.ethz.ch/~ac/).
+I graduated in 2018 from University of Pisa and Scuola Normale Superiore.
 
-### Markdown
+My research field is Geometric Analysis. More specifically, I focus on the study of Free Boundary Minimal Surfaces.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Research
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### List of publications and preprints
 
-1. Numbered
-2. List
+- [Equivariant index bound for min-max free boundary minimal surfaces](https://arxiv.org/abs/2110.01020), preprint.
+- [Free boundary minimal surfaces with connected boundary and arbitrary genus](https://arxiv.org/abs/2001.04920) (with A. Carlotto and M. Schulz), preprint. See gallery [here](https://mbschulz.github.io/fbms/connected_boundary.html).
+- [Inequivalent complexity criteria for free boundary minimal surfaces](https://arxiv.org/abs/1908.04709) (with A. Carlotto), *Adv. Math.* **373** (2020), 107322, 68 pp.
 
-**Bold** and _Italic_ and `Code` text
+### Given talks
 
-[Link](url) and ![Image](src)
-```
+- 2022 Jan: *Variational Aspect of Minimal Surfaces* at Institut Henri Poincaré and University of Paris, Paris
+- 2021 Dec: *German Austrian Swiss Seminar on Analysis and PDE* (hosted online)
+- 2021 Nov: *Zürich Graduate Colloquium* at ETH and UZH Zürich, Zürich
+- 2021 Apr: *British Mathematical Colloquium* at Glasgow (hosted online)
+- 2020 Oct: *Analysis Seminar* at ETH Zürich, Zürich
+- 2020 Aug: Oberwolfach Workshop *Calculus of Variations*
+- 2020 May: *Seminario M.A.P.* at University of Pisa, Pisa (hosted online)
+- 2020 Feb: *Geometry Seminar* at University of Turin, Turin
+- 2019 Nov: *Geometry and Analysis Seminar* at Queen Mary University, London
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Schools and conferences attended
 
-### Jekyll Themes
+- 2021 Nov: Conference *New Trends in Geometric PDEs*, Münster
+- 2020 Jan: *Milano - Torino, Geometry and Analysis Seminar - I*, Milano
+- 2019 Jul: Summer School *Geometric Analysis on Riemannian and Singular Metric Measure Spaces*, Como
+- 2019 Jun: Conference *Geometric Analysis and General Relativity. A conference in honour of Gerhard Huisken's 60th birthday*, ETH Zürich
+- 2018 Jun: Summer School *Course in Geometric Analysis*, Cetraro
+- 2018 May: Oberwolfach Seminar *Spectral Estimates on Noncompact Manifolds and Applications to Geometry*
+- 2018 Feb: Conference *Variational Methods in Analysis, Geometry and Physics*, Pisa
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/giadafranz/giadafranz.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Teaching
 
-### Support or Contact
+### 2022
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Spring Semester: Coordinator of the [Seminar on Minimal Surfaces](https://metaphor.ethz.ch/x/2022/fs/401-3830-22L)
+
+### 2021
+
+- Spring Semester: Organizer for [Mass und Integral](https://metaphor.ethz.ch/x/2021/fs/401-2284-00L/)
+
+### 2020
+
+- Autumn Semester: Organizer for [Functional Analysis I](https://metaphor.ethz.ch/x/2020/hs/401-3461-00L/)
+- Spring Semester: Organizer for [Topology](https://metaphor.ethz.ch/x/2020/fs/401-2554-00L/)
+
+### 2019
+
+- Autumn Semester: Coordinator of the [Seminar on Minimal Surfaces](https://metaphor.ethz.ch/x/2019/hs/401-3830-69L/)
+- Spring Semester: Teaching assistant for [Differential Geometry II](http://vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=127597&semkez=2019S&ansicht=KATALOGDATEN&lang=en)
+
+### 2018
+
+- Autumn Semester: Coordinator of the [Seminar Introduction to Optimal Transport](https://metaphor.ethz.ch/x/2018/hs/401-3350-68L/)
