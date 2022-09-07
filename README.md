@@ -2,7 +2,7 @@
 
 ## About me
 
-I am a C.L.E. Moore Instructor at MIT. Previously, I completed my Ph.D. in mathematics at ETH Zürich and I graduated in 2018 from University of Pisa and Scuola Normale Superiore.
+I am a C.L.E. Moore Instructor at MIT. Previously, I completed my Ph.D. in Mathematics at ETH Zürich and I graduated in 2018 from University of Pisa and Scuola Normale Superiore.
 
 My research field is Geometric Analysis. More specifically, I focus on the study of Free Boundary Minimal Surfaces.
 
