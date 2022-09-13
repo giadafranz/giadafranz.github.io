@@ -1,5 +1,3 @@
-# Giada Franz
-
 ## About me
 
 I am a C.L.E. Moore Instructor at MIT. Previously, I completed my Ph.D. in Mathematics at ETH Zürich and I graduated in 2018 from University of Pisa and Scuola Normale Superiore.
