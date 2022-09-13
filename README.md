@@ -6,12 +6,12 @@ My research field is Geometric Analysis. More specifically, I focus on the study
 
 ### Contact
 
-Department of Mathematics
-Massachusetts Institute of Technology
-77 Massachusetts Ave
+Department of Mathematics  
+Massachusetts Institute of Technology  
+77 Massachusetts Ave  
 Cambridge, MA 02139
 
-Email: gfranz *at* mit *dot* edu
+Email: <tt>gfranz *at* mit *dot* edu</tt>
 
 
 
