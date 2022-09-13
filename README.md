@@ -4,6 +4,17 @@ I am a C.L.E. Moore Instructor at MIT. Previously, I completed my Ph.D. in Mathe
 
 My research field is Geometric Analysis. More specifically, I focus on the study of Free Boundary Minimal Surfaces.
 
+### Contact
+
+Department of Mathematics
+Massachusetts Institute of Technology
+77 Massachusetts Ave
+Cambridge, MA 02139
+
+Email: gfranz *at* mit *dot* edu
+
+
+
 
 ## Research
 
