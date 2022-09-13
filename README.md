@@ -11,7 +11,7 @@ Massachusetts Institute of Technology
 77 Massachusetts Ave  
 Cambridge, MA 02139
 
-Email: <tt>gfranz *at* mit *dot* edu</tt>
+Email: <tt>gfranz@mit.edu</tt>
 
 
 
