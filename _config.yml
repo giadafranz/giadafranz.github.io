@@ -2,5 +2,5 @@ theme: jekyll-theme-minimal
 title: Giada Franz
 logo: /assets/img/avatar.jpg
 github:
-  zip_url: http://github.com/walypala23
+  owner_url: http://github.com/walypala23
 description: gfranz at mit dot edu
