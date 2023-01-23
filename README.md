@@ -51,6 +51,7 @@ Email: <tt>gfranz@mit.edu</tt>
 
 ### Schools and conferences attended
 
+- 2022 Nov: *Northeast Workshop in Geometric Analysis*, UConn, Connecticut
 - 2022 Jun: Conference *Geometric analysis and calibrated geometries*, Zürich
 - 2021 Nov: Conference *New Trends in Geometric PDEs*, Münster
 - 2020 Jan: *Milano - Torino, Geometry and Analysis Seminar - I*, Milano
