@@ -35,6 +35,7 @@ Email: <tt>gfranz@mit.edu</tt>
 
 ### MIT
 
+- Fall 2023: [Differential Geometry 18.950](https://canvas.mit.edu/courses/21683)
 - Spring 2023: [Real Analysis 18.100B](https://canvas.mit.edu/courses/18707)
 - Autumn 2022: Teaching assistant for [Calculus 18.02](https://canvas.mit.edu/courses/15822)
 
