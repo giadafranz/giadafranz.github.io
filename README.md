@@ -25,7 +25,7 @@ Email: <tt>gfranz@mit.edu</tt>
 
 ### Publications
 
-- [Estimating the Morse index of free boundary minimal hypersurfaces through covering arguments](https://arxiv.org/abs/2206.02105) (with S. Cordero-Misteli), to appear in * J. Reine Angew. Math.*.
+- [Estimating the Morse index of free boundary minimal hypersurfaces through covering arguments](https://arxiv.org/abs/2206.02105) (with S. Cordero-Misteli), to appear in *J. Reine Angew. Math.*.
 - [On the stability of minimal submanifolds in conformal spheres](https://arxiv.org/abs/2211.01106) (with F. Trinca), *J. Geom. Anal.* **33** (2023), no. 10, 335.
 - [Equivariant index bound for min-max free boundary minimal surfaces](https://arxiv.org/abs/2110.01020), *Calc. Var. Partial Differential Equations* **62** (2023), no. 7, Paper No. 201.
 - [Free boundary minimal surfaces with connected boundary and arbitrary genus](https://arxiv.org/abs/2001.04920) (with A. Carlotto and M. Schulz), *Camb. J. Math.* **10** (2022), no. 4, pp. 835-857. See gallery [here](https://mbschulz.github.io/fbms/connected_boundary.html).
