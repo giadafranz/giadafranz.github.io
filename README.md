@@ -34,7 +34,6 @@ Email: <tt>gfranz@mit.edu</tt>
 ### Thesis
 
 - [Contributions to the theory of free boundary minimal surfaces](https://arxiv.org/abs/2208.12188), Ph.D. thesis, *ETH Zurich* (May 2022).
-- []()
 
 
 ## Teaching
