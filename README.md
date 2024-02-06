@@ -2,6 +2,8 @@
 
 I am a C.L.E. Moore Instructor at MIT. Previously, I completed my Ph.D. in Mathematics at ETH Zürich and I graduated in 2018 from University of Pisa and Scuola Normale Superiore.
 
+I will spend the Fall semester 2024 in SLMath for the special programs *Special Geometric Structures and Analysis* and *New Frontiers in Curvature: Flows, General Relativity, Minimal Submanifolds, and Symmetry* as a Huneke postdoctoral fellow.
+
 My research field is Geometric Analysis. More specifically, I focus on the study of minimal surfaces.
 
 ### Contact
@@ -25,7 +27,7 @@ Email: <tt>gfranz@mit.edu</tt>
 
 ### Publications
 
-- [Estimating the Morse index of free boundary minimal hypersurfaces through covering arguments](https://arxiv.org/abs/2206.02105) (with S. Cordero-Misteli), to appear in *J. Reine Angew. Math.*.
+- [Estimating the Morse index of free boundary minimal hypersurfaces through covering arguments](https://arxiv.org/abs/2206.02105) (with S. Cordero-Misteli), *J. Reine Angew. Math.* **807** (2024), 187-220.
 - [On the stability of minimal submanifolds in conformal spheres](https://arxiv.org/abs/2211.01106) (with F. Trinca), *J. Geom. Anal.* **33** (2023), no. 10, 335.
 - [Equivariant index bound for min-max free boundary minimal surfaces](https://arxiv.org/abs/2110.01020), *Calc. Var. Partial Differential Equations* **62** (2023), no. 7, Paper No. 201.
 - [Free boundary minimal surfaces with connected boundary and arbitrary genus](https://arxiv.org/abs/2001.04920) (with A. Carlotto and M. Schulz), *Camb. J. Math.* **10** (2022), no. 4, pp. 835-857. See gallery [here](https://mbschulz.github.io/fbms/connected_boundary.html).
