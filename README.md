@@ -35,8 +35,8 @@ Email: <tt>gfranz@mit.edu</tt>
 
 ### Thesis
 
-- [Contributions to the theory of free boundary minimal surfaces](https://doi.org/10.3929/ethz-b-000579329), Ph.D. thesis, *ETH Zurich* (May 2022). [(arXiv:2208.12188)](https://arxiv.org/abs/2208.12188)
-- [Construction of alpha-harmonic maps between spheres](https://etd.adm.unipi.it/t/etd-06262018-214528/), Master thesis, *University of Pisa* (July 2018).
+- [Contributions to the theory of free boundary minimal surfaces](https://doi.org/10.3929/ethz-b-000579329), Ph.D. thesis, *ETH Zurich* (May 2022), Advisor: Alessandro Carlotto. [(arXiv:2208.12188)](https://arxiv.org/abs/2208.12188)
+- [Construction of alpha-harmonic maps between spheres](https://etd.adm.unipi.it/t/etd-06262018-214528/), Master thesis, *University of Pisa* (July 2018), Advisor: Andrea Malchiodi.
 
 
 ## Teaching
