@@ -27,15 +27,16 @@ Email: <tt>gfranz@mit.edu</tt>
 
 ### Publications
 
-- [Estimating the Morse index of free boundary minimal hypersurfaces through covering arguments](https://arxiv.org/abs/2206.02105) (with S. Cordero-Misteli), *J. Reine Angew. Math.* **807** (2024), 187-220.
-- [On the stability of minimal submanifolds in conformal spheres](https://arxiv.org/abs/2211.01106) (with F. Trinca), *J. Geom. Anal.* **33** (2023), no. 10, 335.
-- [Equivariant index bound for min-max free boundary minimal surfaces](https://arxiv.org/abs/2110.01020), *Calc. Var. Partial Differential Equations* **62** (2023), no. 7, Paper No. 201.
-- [Free boundary minimal surfaces with connected boundary and arbitrary genus](https://arxiv.org/abs/2001.04920) (with A. Carlotto and M. Schulz), *Camb. J. Math.* **10** (2022), no. 4, pp. 835-857. See gallery [here](https://mbschulz.github.io/fbms/connected_boundary.html).
-- [Inequivalent complexity criteria for free boundary minimal surfaces](https://arxiv.org/abs/1908.04709) (with A. Carlotto), *Adv. Math.* **373** (2020), 107322, 68 pp.
+- [Estimating the Morse index of free boundary minimal hypersurfaces through covering arguments](https://doi.org/10.1515/crelle-2023-0087) (with S. Cordero-Misteli), *J. Reine Angew. Math.* **807** (2024), 187-220. [(arXiv:2206.02105)](https://arxiv.org/abs/2206.02105)
+- [On the stability of minimal submanifolds in conformal spheres](https://doi.org/10.1007/s12220-023-01398-4) (with F. Trinca), *J. Geom. Anal.* **33** (2023), no. 10, 335. [(arXiv:2211.01106)](https://arxiv.org/abs/2211.01106)
+- [Equivariant index bound for min-max free boundary minimal surfaces](https://doi.org/10.1007/s00526-023-02514-6), *Calc. Var. Partial Differential Equations* **62** (2023), no. 7, Paper No. 201. [(arXiv:2110.01020)](https://arxiv.org/abs/2110.01020)
+- [Free boundary minimal surfaces with connected boundary and arbitrary genus](https://dx.doi.org/10.4310/CJM.2022.v10.n4.a3) (with A. Carlotto and M. Schulz), *Camb. J. Math.* **10** (2022), no. 4, pp. 835-857. See gallery [here](https://mbschulz.github.io/fbms/connected_boundary.html). [(arXiv:2001.04920)](https://arxiv.org/abs/2001.04920)
+- [Inequivalent complexity criteria for free boundary minimal surfaces](https://doi.org/10.1016/j.aim.2020.107322) (with A. Carlotto), *Adv. Math.* **373** (2020), 107322, 68 pp. [(arXiv:1908.04709)](https://arxiv.org/abs/1908.04709)
 
 ### Thesis
 
-- [Contributions to the theory of free boundary minimal surfaces](https://arxiv.org/abs/2208.12188), Ph.D. thesis, *ETH Zurich* (May 2022).
+- [Contributions to the theory of free boundary minimal surfaces](https://doi.org/10.3929/ethz-b-000579329), Ph.D. thesis, *ETH Zurich* (May 2022). [(arXiv:2208.12188)](https://arxiv.org/abs/2208.12188)
+- [Construction of alpha-harmonic maps between spheres](https://etd.adm.unipi.it/t/etd-06262018-214528/), Master thesis, *University of Pisa* (July 2018).
 
 
 ## Teaching
