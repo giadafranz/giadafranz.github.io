@@ -2,7 +2,7 @@
 
 I am a C.L.E. Moore Instructor at MIT. Previously, I completed my Ph.D. in Mathematics at ETH Zürich and I graduated in 2018 from University of Pisa and Scuola Normale Superiore.
 
-I will spend the Fall semester 2024 in SLMath for the special programs *Special Geometric Structures and Analysis* and *New Frontiers in Curvature: Flows, General Relativity, Minimal Submanifolds, and Symmetry* as a Huneke postdoctoral fellow.
+I am currently on leave from MIT to spend the Fall semester 2024 in SLMath as a Huneke postdoctoral fellow.
 
 My research field is Geometric Analysis. More specifically, I focus on the study of minimal surfaces.
 
