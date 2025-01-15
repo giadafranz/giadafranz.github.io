@@ -10,12 +10,10 @@ My research field is Geometric Analysis. More specifically, I focus on the study
 
 ### Contact
 
-Bureau 4B 046
-Laboratoire d'Analyse et de Mathématiques Appliquées
-Bâtiment Copernic
-Université Gustave Eiffel
-5 boulevard Descartes
-77420 Champs-sur-Marne
+Bureau 4B 046\
+Laboratoire d'Analyse et de Mathématiques Appliquées\
+Bâtiment Copernic - Université Gustave Eiffel\
+5 boulevard Descartes, 77420 Champs-sur-Marne
 
 Email: <tt>giada.franz@univ-eiffel.fr</tt>, <tt>gfranz@mit.edu</tt>
 
