@@ -1,19 +1,23 @@
 ## About me
 
-I am a C.L.E. Moore Instructor at MIT. Previously, I completed my Ph.D. in Mathematics at ETH Zürich and I graduated in 2018 from University of Pisa and Scuola Normale Superiore.
 
-I am currently on leave from MIT to spend the Fall semester 2024 in SLMath as a Huneke postdoctoral fellow. 
+I am a chargée de recherche of CNRS located at Université Gustave Eiffel. Here is the link to our seminar: [Séminaire de géométrie](https://webusers.imj-prg.fr/~eric.toubiana/geometrie).
+
+Previously, I was a C.L.E. Moore Instructor at MIT, and I spent the Fall semester 2024 at MSRI in Berkeley as a Huneke postdoctoral fellow. 
+I completed my Ph.D. in Mathematics at ETH Zürich and I graduated in 2018 from University of Pisa and Scuola Normale Superiore.
 
 My research field is Geometric Analysis. More specifically, I focus on the study of minimal surfaces.
 
 ### Contact
 
-Department of Mathematics  
-Massachusetts Institute of Technology  
-77 Massachusetts Ave  
-Cambridge, MA 02139
+Bureau 4B 046
+Laboratoire d'Analyse et de Mathématiques Appliquées
+Bâtiment Copernic
+Université Gustave Eiffel
+5 boulevard Descartes
+77420 Champs-sur-Marne
 
-Email: <tt>gfranz@mit.edu</tt>
+Email: <tt>giada.franz@univ-eiffel.fr</tt>, <tt>gfranz@mit.edu</tt>
 
 
 
@@ -23,6 +27,7 @@ Email: <tt>gfranz@mit.edu</tt>
 
 ### Preprints
 
+- [Unknottedness of free boundary minimal surfaces and self-shrinkers](https://arxiv.org/abs/2412.16785) (with S. Chu), preprint.
 - [Genus one critical catenoid](https://arxiv.org/abs/2409.12588) (with D. Ketover and M. Schulz), preprint.
 - [Topological control for min-max free boundary minimal surfaces](https://arxiv.org/abs/2307.00941) (with M. Schulz), preprint.
 
