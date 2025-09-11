@@ -1,7 +1,6 @@
 ---
 layout: about
 title: about
-exclude: false
 permalink: /
 subtitle: <tt>giada.franz@univ-eiffel.fr</tt>, <tt>giada.franz@cnrs.fr</tt>
 
