@@ -2,17 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <tt>giada.franz@univ-eiffel.fr</tt>, <tt>giada.franz@cnrs.fr</tt>
+subtitle: 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Bureau 4B 046</p>
-    <p>Laboratoire d'Analyse et de Mathématiques Appliquées</p>
-    <p>Bâtiment Copernic - Université Gustave Eiffel</p>
-    <p>5 boulevard Descartes, 77420 Champs-sur-Marne</p>
+    
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -34,3 +31,13 @@ Previously, I was a C.L.E. Moore Instructor at MIT, and I spent the Fall semeste
 I completed my Ph.D. in Mathematics at ETH Zürich and I graduated in 2018 from University of Pisa and Scuola Normale Superiore.
 
 My research field is Geometric Analysis. More specifically, I focus on the study of minimal surfaces.
+
+### Contact
+
+Bureau 4B 046\
+Laboratoire d'Analyse et de Mathématiques Appliquées\
+Bâtiment Copernic - Université Gustave Eiffel\
+5 boulevard Descartes, 77420 Champs-sur-Marne
+
+Email: <tt>giada.franz@univ-eiffel.fr</tt>, <tt>gfranz@mit.edu</tt>
+
