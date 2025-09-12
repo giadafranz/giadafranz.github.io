@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-  <p style="font-size:smaller">Photo by <a href="https://kdain.com/" target="_blank">Dain Kim</a>.</p>
+  <p style="font-size:smaller">Photo by <a href="https://kdain.com/">Dain Kim</a>.</p>
     
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
