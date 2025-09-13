@@ -2,13 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
+subtitle: <tt>giada.franz@univ-eiffel.fr</tt>, <tt>giada.franz@cnrs.fr</tt>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -38,5 +39,5 @@ Laboratoire d'Analyse et de Mathématiques Appliquées\
 Bâtiment Copernic - Université Gustave Eiffel\
 5 boulevard Descartes, 77420 Champs-sur-Marne
 
-Email: <tt>giada.franz@univ-eiffel.fr</tt>, <tt>giada.franz@cnrs.fr</tt>
+Email: <tt>giada.franz@univ-eiffel.fr</tt>, <tt>gfranz@mit.edu</tt>
 
