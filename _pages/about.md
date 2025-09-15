@@ -39,5 +39,5 @@ Laboratoire d'Analyse et de Mathématiques Appliquées\
 Bâtiment Copernic - Université Gustave Eiffel\
 5 boulevard Descartes, 77420 Champs-sur-Marne
 
-Email: <tt>giada.franz@univ-eiffel.fr</tt>, <tt>giada.franz@cnrs.fr</tt>
+Email: <tt>giada.franz@univ-eiffel.fr</tt>,  <tt>giada.franz@cnrs.fr</tt>
 
