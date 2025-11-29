@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Bourbaki seminar about [*Minimal surfaces via equivariant eigenvalue optimization (after Karpukhin-Kusner-McGrath-Stern)*](https://www.bourbaki.fr/).
+[Bourbaki seminar](https://www.bourbaki.fr/) about [*Minimal surfaces via equivariant eigenvalue optimization (after Karpukhin-Kusner-McGrath-Stern)*](https://www.bourbaki.fr/TEXTES/Exp1244-Franz.pdf).
