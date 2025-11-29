@@ -28,16 +28,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-bourbaki-seminar-about-minimal-surfaces-via-equivariant-eigenvalue-optimization-after-karpukhin-kusner-mcgrath-stern",
+          title: 'Bourbaki seminar about Minimal surfaces via equivariant eigenvalue optimization (after Karpukhin-Kusner-McGrath-Stern).',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
