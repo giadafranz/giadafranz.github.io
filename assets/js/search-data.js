@@ -28,8 +28,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-bourbaki-seminar-about-minimal-surfaces-via-equivariant-eigenvalue-optimization-after-karpukhin-kusner-mcgrath-stern",
-          title: 'Bourbaki seminar about Minimal surfaces via equivariant eigenvalue optimization (after Karpukhin-Kusner-McGrath-Stern).',
+            },},{id: "news-in-fall-2026-i-am-in-pisa-to-teach-a-course-on-minimal-surfaces",
+          title: 'In fall 2026, I am in Pisa to teach a course on Minimal...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
