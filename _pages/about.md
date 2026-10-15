@@ -25,7 +25,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a chargée de recherche of CNRS located at Université Gustave Eiffel. Here is the link to our seminar: [Séminaire de géométrie](https://webusers.imj-prg.fr/~romain.petrides/geometrie.html).
+
+I am a chargée de recherche of CNRS, located at Université Gustave Eiffel. Here is the link to our seminar: [Séminaire de géométrie](https://webusers.imj-prg.fr/~romain.petrides/geometrie.html).
 
 Previously, I was a C.L.E. Moore Instructor at MIT, and I spent the Fall semester 2024 at MSRI in Berkeley as a Huneke postdoctoral fellow. 
 I completed my Ph.D. in Mathematics at ETH Zürich and I graduated in 2018 from University of Pisa and Scuola Normale Superiore.
@@ -39,5 +40,5 @@ Laboratoire d'Analyse et de Mathématiques Appliquées\
 Bâtiment Copernic - Université Gustave Eiffel\
 5 boulevard Descartes, 77420 Champs-sur-Marne
 
-Email: <tt>giada.franz@univ-eiffel.fr</tt>,  <tt>giada.franz@cnrs.fr</tt>
+Email: <tt>giada.franz@cnrs.fr</tt>
 

@@ -7,6 +7,11 @@ nav: true
 nav_order: 6
 ---
 
+
+### SNS
+
+- Fall 2026: [Minimal surfaces](https://www.sns.it/it/corsoinsegnamento/minimal-surfaces)
+
 ### MIT
 
 - Spring 2024: [Real Analysis 18.100B](https://canvas.mit.edu/courses/24281)

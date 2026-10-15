@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Bourbaki seminar](https://www.bourbaki.fr/) about [*Minimal surfaces via equivariant eigenvalue optimization (after Karpukhin-Kusner-McGrath-Stern)*](https://www.bourbaki.fr/TEXTES/Exp1244-Franz.pdf).
+In fall 2026, I am in Pisa to teach a course on [Minimal surfaces](https://www.sns.it/it/corsoinsegnamento/minimal-surfaces).
