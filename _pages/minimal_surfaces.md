@@ -26,8 +26,13 @@ More information [here](https://www.sns.it/it/corsoinsegnamento/minimal-surfaces
 | :----- | :----- | :-------- |
 | 20/10/2026, at 2pm | Aula Bianchi Scienze | Introduction and preliminaries in Riemannian geometry |
 | 22/10/2026, at 4pm | Aula Mancini | Geodesics and first variation of the area |
-| 27/10/2026, at 2pm | Aula Bianchi Scienze |  |
+| 27/10/2026, at 2pm | Aula Bianchi Scienze | First consequences of minimality and monotonicity formula |
 | 29/10/2026, at 4pm | Aula Tonelli |  |
+| 03/11/2026, at 2pm | Aula Bianchi Scienze | |
+| 05/11/2026, at 4pm | Aula Mancini |  |
+| 10/11/2026, at 2pm | Aula Bianchi Scienze | |
+| 12/11/2026, at 4pm | Aula Mancini |  |
+| 13/11/2026, at 4pm | Aula Volterra | Exercise class and discussion |
 
 <div class="mb-4"></div>
 
@@ -44,6 +49,7 @@ The transcription of the handwritten notes into LaTex is currently partially aut
 | Date | Exercises | Topic |
 | :----- | :----- | :-------- |
 | 20/10/2026 | [Exercise sheet 0](../assets/pdf/ex_sheet_00.pdf) | Review of Riemannian geometry |
+| 28/10/2026 | [Exercise sheet 1](../assets/pdf/ex_sheet_01.pdf) | Minimal surfaces in Euclidean space |
 
 
 <div class="mb-4"></div>
