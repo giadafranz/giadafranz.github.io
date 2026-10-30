@@ -27,7 +27,7 @@ More information [here](https://www.sns.it/it/corsoinsegnamento/minimal-surfaces
 | 20/10/2026, at 2pm | Aula Bianchi Scienze | Introduction and preliminaries in Riemannian geometry |
 | 22/10/2026, at 4pm | Aula Mancini | Geodesics and first variation of the area |
 | 27/10/2026, at 2pm | Aula Bianchi Scienze | First consequences of minimality and monotonicity formula |
-| 29/10/2026, at 4pm | Aula Tonelli |  |
+| 29/10/2026, at 4pm | Aula Tonelli | Fáry-Milnor theorem, Hoffman-Meeks halfspace theorem, and Weierstrass representation |
 | 03/11/2026, at 2pm | Aula Bianchi Scienze | |
 | 05/11/2026, at 4pm | Aula Mancini |  |
 | 10/11/2026, at 2pm | Aula Bianchi Scienze | |
