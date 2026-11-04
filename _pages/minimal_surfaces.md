@@ -23,17 +23,26 @@ More information [here](https://www.sns.it/it/corsoinsegnamento/minimal-surfaces
 ### Lectures
 
 | Date | Where | Topic |
-| :----- | :----- | :-------- |
-| 20/10/2026, at 2pm | Aula Bianchi Scienze | Introduction and preliminaries in Riemannian geometry |
-| 22/10/2026, at 4pm | Aula Mancini | Geodesics and first variation of the area |
-| 27/10/2026, at 2pm | Aula Bianchi Scienze | First consequences of minimality and monotonicity formula |
-| 29/10/2026, at 4pm | Aula Tonelli | Fáry-Milnor theorem, Hoffman-Meeks halfspace theorem, and Weierstrass representation |
-| 03/11/2026, at 2pm | Aula Bianchi Scienze | Second variation of the area, Bernstein and stable Bernstein theorems |
-| 04/11/2026, at 9pm | Aula Mancini | Basic compactness theorem, curvature estimates for stable minimal hypersurfaces, index of minimal submanifold |
-| 10/11/2026, at 2pm | Aula Bianchi Scienze | |
-| 12/11/2026, at 4pm | Aula Mancini |  |
-| 13/11/2026, at 4pm | Aula Volterra | Exercise class and discussion |
-| ... | | |
+| :- | :----- | :-------- |
+| 20/10/2026 2pm | Aula Bianchi Scienze | Introduction and preliminaries in Riemannian geometry |
+| 22/10/2026 4pm | Aula Mancini | Geodesics and first variation of the area |
+| 27/10/2026 2pm | Aula Bianchi Scienze | First consequences of minimality and monotonicity formula |
+| 29/10/2026 4pm | Aula Tonelli | Fáry-Milnor theorem, Hoffman-Meeks halfspace theorem, and Weierstrass representation |
+| 03/11/2026 2pm | Aula Bianchi Scienze | Second variation of the area, Bernstein and stable Bernstein theorems |
+| 04/11/2026 9am | Aula Mancini | Basic compactness theorem, curvature estimates for stable minimal hypersurfaces, index of minimal submanifold |
+| 10/11/2026 2pm | Aula Bianchi Scienze | |
+| 12/11/2026 4pm | Aula Mancini |  |
+| 13/11/2026 4pm | Aula Volterra | Exercise class and discussion |
+| 17/11/2026 2pm | Aula Bianchi Scienze |  |
+| 19/11/2026 4pm | Aula Mancini |  |
+| 24/11/2026 2pm | Aula Marie Curie |  |
+| 26/11/2026 4pm | Aula Fermi |  |
+| 01/12/2026 2pm | Aula Bianchi Scienze |  |
+| 03/12/2026 4pm | Aula Mancini |  |
+| 08/12/2026 2pm | *NO CLASS* |  |
+| 10/12/2026 4pm | Aula Fermi |  |
+| 15/12/2026 2pm | Aula Bianchi Scienze |  |
+| 17/12/2026 4pm | Aula Russo |  |
 
 <div class="mb-4"></div>
 
