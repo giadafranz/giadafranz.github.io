@@ -60,7 +60,7 @@ The transcription of the handwritten notes into LaTex is currently partially aut
 | :----- | :----- | :-------- |
 | 20/10/2026 | [Exercise sheet 0](../assets/pdf/ex_sheet_00.pdf) | Review of Riemannian geometry |
 | 28/10/2026 | [Exercise sheet 1](../assets/pdf/ex_sheet_01.pdf) | Minimal surfaces in Euclidean space |
-| 28/10/2026 | [Exercise sheet 2](../assets/pdf/ex_sheet_02.pdf) | Basics of spectral theory |
+| 09/11/2026 | [Exercise sheet 2](../assets/pdf/ex_sheet_02.pdf) | Basics of spectral theory |
 
 
 <div class="mb-4"></div>
