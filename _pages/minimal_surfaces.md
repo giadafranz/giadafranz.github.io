@@ -30,8 +30,8 @@ More information [here](https://www.sns.it/it/corsoinsegnamento/minimal-surfaces
 | 29/10/2026 4pm | Aula Tonelli | Fáry-Milnor theorem, Hoffman-Meeks halfspace theorem, and Weierstrass representation |
 | 03/11/2026 2pm | Aula Bianchi Scienze | Second variation of the area, Bernstein and stable Bernstein theorems |
 | 04/11/2026 9am | Aula Mancini | Basic compactness theorem, curvature estimates for stable minimal hypersurfaces, index of minimal submanifold |
-| 10/11/2026 2pm | Aula Bianchi Scienze | |
-| 12/11/2026 4pm | Aula Mancini |  |
+| 10/11/2026 2pm | Aula Bianchi Scienze | Structure of finite index minimal surfaces |
+| 12/11/2026 4pm | Aula Mancini | Minimal surfaces in positive Ricci curvature: Frankel's theorem, Lawson's unknottedness, and examples in the 3-sphere |
 | 13/11/2026 4pm | Aula Volterra | Exercise class and discussion |
 | 17/11/2026 2pm | Aula Bianchi Scienze |  |
 | 19/11/2026 4pm | Aula Mancini |  |
