@@ -33,7 +33,7 @@ More information [here](https://www.sns.it/it/corsoinsegnamento/minimal-surfaces
 | 10/11/2026 2pm | Aula Bianchi Scienze | Structure of finite index minimal surfaces |
 | 12/11/2026 4pm | Aula Mancini | Frankel's theorem, Lawson's unknottedness, and examples in the 3-sphere |
 | 13/11/2026 4pm | Aula Volterra | Exercise class and discussion |
-| 17/11/2026 2pm | Aula Bianchi Scienze |  |
+| 17/11/2026 2pm | Aula Bianchi Scienze | Choi-Schoen compactness |
 | 19/11/2026 4pm | Aula Mancini |  |
 | 24/11/2026 2pm | Aula Marie Curie |  |
 | 26/11/2026 4pm | Aula Fermi |  |
