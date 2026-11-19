@@ -34,9 +34,10 @@ More information [here](https://www.sns.it/it/corsoinsegnamento/minimal-surfaces
 | 12/11/2026 4pm | Aula Mancini | Frankel's theorem, Lawson's unknottedness, and examples in the 3-sphere |
 | 13/11/2026 4pm | Aula Volterra | Exercise class and discussion |
 | 17/11/2026 2pm | Aula Bianchi Scienze | Choi-Schoen compactness |
-| 19/11/2026 4pm | Aula Mancini |  |
+| 19/11/2026 4pm | Aula Mancini | End Choi-Schoen compactness, start minimal surfaces in spheres and spectral theory |
 | 24/11/2026 2pm | Aula Marie Curie |  |
 | 26/11/2026 4pm | Aula Fermi |  |
+| 30/11/2026 2pm | | Exercise class |
 | 01/12/2026 2pm | Aula Bianchi Scienze |  |
 | 03/12/2026 4pm | Aula Mancini |  |
 | 08/12/2026 2pm | *NO CLASS* |  |
